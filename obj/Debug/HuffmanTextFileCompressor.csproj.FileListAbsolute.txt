@@ -1,0 +1,18 @@
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\HuffmanTextFileCompressor\HuffmanTextFileCompressor\bin\Debug\HuffmanTextFileCompressor.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\HuffmanTextFileCompressor\HuffmanTextFileCompressor\bin\Debug\HuffmanTextFileCompressor.pdb
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\HuffmanTextFileCompressor\HuffmanTextFileCompressor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\HuffmanTextFileCompressor\HuffmanTextFileCompressor\obj\Debug\HuffmanTextFileCompressor.MainForm.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\HuffmanTextFileCompressor\HuffmanTextFileCompressor\obj\Debug\HuffmanTextFileCompressor.Properties.Resources.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\HuffmanTextFileCompressor\HuffmanTextFileCompressor\obj\Debug\HuffmanTextFileCompressor.csproj.GenerateResource.Cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\HuffmanTextFileCompressor\HuffmanTextFileCompressor\obj\Debug\HuffmanTextFileCompressor.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\HuffmanTextFileCompressor\HuffmanTextFileCompressor\obj\Debug\HuffmanTextFileCompressor.pdb
+C:\Users\rez0041\Downloads\Huffman Text File Compression\C#\HuffmanTextFileCompressor\bin\Debug\HuffmanTextFileCompressor.exe.config
+C:\Users\rez0041\Downloads\Huffman Text File Compression\C#\HuffmanTextFileCompressor\bin\Debug\HuffmanTextFileCompressor.exe
+C:\Users\rez0041\Downloads\Huffman Text File Compression\C#\HuffmanTextFileCompressor\bin\Debug\HuffmanTextFileCompressor.pdb
+C:\Users\rez0041\Downloads\Huffman Text File Compression\C#\HuffmanTextFileCompressor\obj\Debug\HuffmanTextFileCompressor.csprojResolveAssemblyReference.cache
+C:\Users\rez0041\Downloads\Huffman Text File Compression\C#\HuffmanTextFileCompressor\obj\Debug\HuffmanTextFileCompressor.MainForm.resources
+C:\Users\rez0041\Downloads\Huffman Text File Compression\C#\HuffmanTextFileCompressor\obj\Debug\HuffmanTextFileCompressor.Properties.Resources.resources
+C:\Users\rez0041\Downloads\Huffman Text File Compression\C#\HuffmanTextFileCompressor\obj\Debug\HuffmanTextFileCompressor.csproj.GenerateResource.cache
+C:\Users\rez0041\Downloads\Huffman Text File Compression\C#\HuffmanTextFileCompressor\obj\Debug\HuffmanTextFileCompressor.csproj.CoreCompileInputs.cache
+C:\Users\rez0041\Downloads\Huffman Text File Compression\C#\HuffmanTextFileCompressor\obj\Debug\HuffmanTextFileCompressor.exe
+C:\Users\rez0041\Downloads\Huffman Text File Compression\C#\HuffmanTextFileCompressor\obj\Debug\HuffmanTextFileCompressor.pdb
